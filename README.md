@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Iaroslav 👋</h1>
 
 <p align="center">
-  I'm a Bioinformatics student at <strong>Goethe University Frankfurt</strong> with a passion for building robust and intuitive computational solutions. My core expertise lies in developing data analysis pipelines in Python and I'm currently expanding my skills by building interactive web applications with R and Shiny.
+I'm a Bioinformatics student at <strong>Goethe University Frankfurt</strong> with a passion for building robust and intuitive computational solutions. My core expertise lies in developing data analysis pipelines in Python.
 </p>
 
 <p align="center">
