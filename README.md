@@ -41,5 +41,5 @@ Here are some of the technologies I love working with:
 ---
 
 <p align="center">
-  Happy coding! 😄
+  🦭
 </p>
