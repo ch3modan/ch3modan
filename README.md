@@ -1,9 +1,7 @@
 <h1 align="center">Hi there, I'm Iaroslav 👋</h1>
 
 <p align="center">
-  A passionate **Bioinformatics student** at <strong>Goethe University Frankfurt</strong>, on a mission to build beautiful, robust, and intuitive computational solutions. 🚀
-  <br />
-  I love turning complex biological data into clear stories, and my tool of choice is Python.
+ Bioinformatics student at <strong>Goethe University Frankfurt</strong>
 </p>
 
 <p align="center">
